@@ -1,4 +1,6 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kdq_UX302MAb_EZBONqYxjKj4z8i1HbpxFMEietI&s)
+<div align="center" style="position: fixed; top: 0;  ">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kdq_UX302MAb_EZBONqYxjKj4z8i1HbpxFMEietI&s" alt="">
+</div>
 
 <h1 align="center">Hi 👋, I'm Pratiyank</h1>
 <h3 align="center">A passionate web developer from India</h3>
