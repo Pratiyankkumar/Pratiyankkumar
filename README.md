@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://x.com/pratiyank](https://x.com/pratiyank)
 
-- 💬 Ask me about **Typescript, Backend , React**
+- 💬 Ask me about **Typescript, Backend , React, Databases**
 
 - 📫 How to reach me **pratiyank49@gmail.com**
 
