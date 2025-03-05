@@ -1,1 +1,1 @@
-17, Typing code, breaking things, fixing them, repeat. 🚀
+17, Typing code, breaking things, fixing them, repeat 🚀
